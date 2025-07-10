@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Taseen
-- 👀 I’m interested in ...Watching movies
-- 🌱 I’m currently learning ...c++/DSA
-- 💞️ I’m looking to collaborate on ...nothing
+- 👀 I’m interested in ...(I AM BORING)
+- 🌱 I’m currently learning ...DSA/WEB-DEV
+- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...through email @taseenrashad19@gmail.com
 - 😄 Pronouns: ...he
 - ⚡ Fun fact: ...life is short 
