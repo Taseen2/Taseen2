@@ -6,9 +6,10 @@
 </div>
 
 ## 🚀 About Me
-* 🎓 BTech CSE (3rd Year)
-* 📚 Currently grinding: **DSA + GATE + Software Engineering**
-* 🎯 Goal: **Crack a solid internship & become a great developer**
+* 🎓 3rd Year BTech CSE Student
+* 💻 Passionate about Web Development and Problem Solving
+* 📚 Currently focused on **DSA, GATE Preparation, and Full-Stack Development**
+* 🎯 Working towards a strong internship and a successful GATE score
 * ⚡ **Not perfect, just improving every commit.**
 
 ## 🧠 Current Focus
@@ -51,11 +52,11 @@ Development 💻 → Real-world Skills
 
 ## 📈 Goals for 2026
 
-* 🔥 Crack a good internship
-* 📈 Master DSA & problem solving
-* 💻 Build impactful projects
-* 🧠 Strengthen core CS subjects
-
+- 🔥 Secure a strong internship
+- 🎓 Crack GATE with a competitive score
+- 📈 Master DSA & Problem Solving
+- 💻 Build impactful projects
+- 🧠 Strengthen core CS fundamentals
 
 
 ## 🤝 Let's Connect
